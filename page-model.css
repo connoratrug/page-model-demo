@@ -1,0 +1,7 @@
+main > .container {
+    padding-top: 185px; /* 125 img + 60 navbar */
+}
+
+.footer {
+    background-color: lightgray;
+}
